@@ -49,4 +49,7 @@ Temporary Items
 # Compiled python files
 *.pyc
 
+# julia output
+*.h5
+
 
