@@ -1,0 +1,2 @@
+one, A, 0, 1 a; None
+two, nn1_A_A, 8.368, 1 a ! 1 b; NN1
